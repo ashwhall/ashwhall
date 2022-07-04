@@ -2,7 +2,7 @@
 
 #### Machine Learning Research Engineer / Software Developer
 
-More info and contact info [my website 🔗](https://ashwhall.github.io/)
+More info and contact details on [my website 🔗](https://ashwhall.github.io/)
 
 ##### GitHub stats:
 ![Ash Hall's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwhall&include_all_commits=true&count_private=true&show_icons=true&line_height=20) 
