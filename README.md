@@ -9,4 +9,4 @@ More info and contact info [my website 🔗](https://ashwhall.github.io/)
 ![Ash Hall's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwhall&layout=compact)
 
 ##### Now playing on Spotify:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1280496103&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1280496103&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1280496103&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
