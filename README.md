@@ -5,7 +5,6 @@
 More info and contact details on [my website 🔗](https://ashwhall.github.io/)
 
 ##### GitHub stats:
-![Ash Hall's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwhall&include_all_commits=true&count_private=true&show_icons=true&line_height=20) 
 ![Ash Hall's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwhall&layout=compact)
 
 
