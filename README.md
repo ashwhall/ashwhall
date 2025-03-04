@@ -12,6 +12,4 @@ More info and contact details on [my website 🔗](https://ashwhall.github.io/)
 - [Deep Learning Interview](http://ashwhall.github.io//2022-11-17-deep-learning-interview/)
 <!-- BLOG-POST-LIST:END -->
 
-![](https://komarev.com/ghpvc/?username=ashwhall)
-
-![](https://spotify-recently-played-readme.vercel.app/api?user=1280496103&count=1&width=300)
+![](https://spotify-recently-played-readme.vercel.app/api?user=1280496103&count=1&width=300) ![](https://komarev.com/ghpvc/?username=ashwhall)
