@@ -8,5 +8,5 @@ More info and contact details on [my website 🔗](https://ashwhall.github.io/)
 
 
 
-##### Now playing on Spotify:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1280496103&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1280496103&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+![](https://komarev.com/ghpvc/?username=ashwhall)
+
