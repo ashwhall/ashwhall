@@ -4,8 +4,6 @@
 
 More info and contact details on [my website 🔗](https://ashwhall.github.io/)
 
-![Ash Hall's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwhall&layout=compact)
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Data Distributions in Image-Based Machine Learning](http://ashwhall.github.io//2025-02-25-image-distributions/)
