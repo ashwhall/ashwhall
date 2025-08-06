@@ -2,9 +2,9 @@
 
 #### Machine Learning Research Engineer / Software Developer
 
-More info and contact details on [my website 🔗](https://ashwhall.github.io/)
+More info and contact details on [my website](https://ashwhall.github.io/)
 
-### Blog posts
+### [Blog posts](https://ashwhall.github.io/posts/)
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Data Distributions in Image-Based Machine Learning](http://ashwhall.github.io//2025-02-25-image-distributions/)
 - [LLMs for Policy Interpretation](http://ashwhall.github.io//2023-02-03-llms-policy-interpretation/)
