@@ -13,5 +13,3 @@ More info and contact details on [my website 🔗](https://ashwhall.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://spotify-recently-played-readme.vercel.app/api?user=1280496103&count=1&width=300)
-
-![](https://komarev.com/ghpvc/?username=ashwhall)
