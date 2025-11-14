@@ -6,6 +6,7 @@ More info and contact details on [my website](https://ashwhall.github.io/)
 
 ### [Blog posts](https://ashwhall.github.io/posts/)
 <!-- BLOG-POST-LIST:START -->
+- [Coding LLMs - The Permanent Junior Developer](http://ashwhall.github.io//2025-11-13-coding-llms-are-permanent-junior-developers/)
 - [Understanding Data Distributions in Image-Based Machine Learning](http://ashwhall.github.io//2025-02-25-image-distributions/)
 - [LLMs for Policy Interpretation](http://ashwhall.github.io//2023-02-03-llms-policy-interpretation/)
 - [Importing Vanilla JS Files](http://ashwhall.github.io//2022-11-24-import-vanilla-js/)
